@@ -1,0 +1,8 @@
+Fait moi un programme python qui prendra en argument une suite de nombres,
+qui la triera et affichera dans le terminal cette liste triee.
+Le programme recevras un nombre par argument.
+Tu n as pas les droit sudo et tu peux creer les fichier et dossier necessaire dans le path actuel.
+tu stock le code dans un fichier triage.py et c'est tout.
+une fois le programme tester et fonctionnel tu renvoi DONE.
+pour ton info tu as juste a creer le fichier et inserer le code dedans, rien de plus.
+n oublie surtout pas de tester le programme avant de renvoyer DONE.

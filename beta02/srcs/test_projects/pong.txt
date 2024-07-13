@@ -1,0 +1,4 @@
+Crée un programme pour jouer à Pong dans une nouvelle fenêtre, à deux joueurs sur le même clavier.
+Un joueur utilisera 'w' pour monter le paddle et 's' pour le descendre, et le deuxième utilisera les flèches pour monter et descendre son paddle. 
+Le programme doit être très basique et tous les fichiers du projet doivent être créés dans le répertoire actuel.
+Assure-toi que le programme est jouable et fonctionne correctement dans une fenêtre séparée.

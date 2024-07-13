@@ -1,0 +1,3 @@
+Fait moi un programme python qui prendra en argument une suite de nombres,
+qui la triera et affichera dans le terminal cette liste triee.
+Le programme recevras un nombre par argument.

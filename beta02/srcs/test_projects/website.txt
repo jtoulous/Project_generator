@@ -1,0 +1,2 @@
+Crée un site web pour acheter des strings en ligne. Le site devrait permettre aux utilisateurs de parcourir différents types de strings, d'ajouter des articles au panier, de passer une commande avec des informations de paiement de base (pas de paiement réel), et de recevoir une confirmation de commande fictive.
+Le site doit être convivial, avec une interface utilisateur attrayante et une navigation facile. Assure-toi que toutes les fonctionnalités sont testées et fonctionnent correctement.
